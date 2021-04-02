@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noora
+- 👀 I’m interested in reading, travelling, data visualization...
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate on develop into a lasting relationship.
+- 📫 Reach me at iimmonica@outlook.com
